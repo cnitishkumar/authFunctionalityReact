@@ -1,0 +1,14 @@
+.ul-el {
+  display: flex;
+  justify-content: center;
+  padding: 0px;
+}
+
+.li-el {
+  font-family: 'Roboto';
+  list-style: none;
+  margin: 10px;
+}
+.nav-link {
+  margin: 10px;
+}
